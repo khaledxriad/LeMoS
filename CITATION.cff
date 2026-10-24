@@ -8,4 +8,6 @@ authors:
     affiliation: "Computer Science Department, College of Computer Sciences and Information Technology, King Faisal University"
 date-released: 2026-10-24
 license: MIT
-# repository-code: add the repository URL here
+repository-code: "https://github.com/khaledxriad/LeMoS"
+version: 1.0.0
+doi: 10.5281/zenodo.23612689
