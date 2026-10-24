@@ -1,6 +1,6 @@
 # LeMoS: Leakage-Bounded Module-SIS Credentials with Tight Bounds
 
-Code, data, figure sources and LaTeX sources for the paper
+Code, data and figure sources for the paper
 
 > Khaled Riad, "LeMoS: Leakage-Bounded Module-SIS Credentials with Tight Bounds," manuscript, 2026.
 
