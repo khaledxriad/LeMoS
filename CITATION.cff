@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper."
+title: "LeMoS: Leakage-Bounded Module-SIS Credentials with Tight Bounds"
+type: software
+authors:
+  - family-names: Riad
+    given-names: Khaled
+    affiliation: "Computer Science Department, College of Computer Sciences and Information Technology, King Faisal University"
+date-released: 2026-10-24
+license: MIT
+# repository-code: add the repository URL here
