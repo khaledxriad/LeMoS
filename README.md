@@ -1,6 +1,6 @@
 # LeMoS: Leakage-Bounded Module-SIS Credentials with Tight Bounds
 
-Code and data for the paper (repository: <https://github.com/khaledxriad/LeMoS>, archive DOI: <https://doi.org/10.5281/zenodo.23612689>)
+Code and data for the paper (repository: <https://github.com/khaledxriad/LeMoS>, archive DOI: <https://doi.org/10.5281/zenodo.23612688>)
 
 > K. Riad, "LeMoS: Leakage-Bounded Module-SIS Credentials with Tight Bounds," manuscript, 2026.
 
